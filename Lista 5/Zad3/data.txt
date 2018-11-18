@@ -1,0 +1,12 @@
+email: ian.vizarra@gmail.com
+password: lkj
+
+email: ian.vizarra@gmail.com
+password: test
+
+email: example
+password: pijany
+
+email: d
+password: d
+
