@@ -1,0 +1,11 @@
+{
+    "siteTitle": "Podstawy Programowania",
+    "siteDesc": "Strona opisująca mój pierwszy semestr - Podstawy Programowania",
+    "divSize": 4,
+    "containers": [
+        {
+            "title": "Java",
+            "description": "Osobiście jest to jeden z moich ulubionych przedmiotów do tej pory - nie ze względu na sam język, ale ze względu na prowadzącego. Doktor Wąsik w świetny, przejrzysty i łatwy do strawienia sposób przybliżył nam podstawy programowania języka Python. Oprócz korzystania z wielu interaktywnych stron (np. CheckIO), prowadzący organizował też quizy pod koniec każdych zajęć, co bardzo ożywiało konwersację oraz ułatwiało przyswajanie wiedzy!"
+        }
+    ]
+}

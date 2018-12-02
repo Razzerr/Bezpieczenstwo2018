@@ -1,0 +1,11 @@
+{
+    "siteTitle": "Wstęp do Informatyki",
+    "siteDesc": "Strona opisująca mój pierwszy semestr - Wstęp do Informatyki",
+    "divSize": 4,
+    "containers": [
+        {
+            "title": "Lorem ipsum?",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ut turpis ut felis dictum hendrerit. Suspendisse scelerisque dignissim felis, vel facilisis libero. Nullam lobortis sodales elementum. Mauris faucibus, nisi non condimentum egestas, odio libero convallis risus, rhoncus suscipit nulla ipsum nec orci. Nulla vel euismod augue, sit amet viverra risus. Morbi ultricies neque est, eu sollicitudin felis malesuada a. Integer mollis, urna vitae elementum varius, sem massa aliquam quam, eu aliquam orci tortor ac erat. Pellentesque imperdiet malesuada elit,vitae convallis risus volutpat at. Vivamus tortor dui, ultricies pharetra euismod at, consequat eget dui."
+        }
+    ]
+}

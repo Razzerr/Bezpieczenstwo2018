@@ -1,0 +1,11 @@
+{
+    "siteTitle": "Logika Obliczeniowa",
+    "siteDesc": "Strona opisująca mój pierwszy semestr - Logika Olbiczeniowa",
+    "divSize": 4,
+    "containers": [
+        {
+            "title": "NIE rachunek zdań",
+            "description": "A rachunek predykatów. Przez tę właśnie róznicę miałem sporo problemów po przeniesieniu się na PWr. W każdym razie, przedmiot jako przedmiot dosyć ciekawy - rozkładanie wyrażeń logicznych na predykaty, atomy i termy, ujednoznacznianie ich, znajdowanie przestrzeni Hilbranda - same interesujące rzeczy odnośnie logicznego rozumowania potrzebnego do zrozumienia AI. Na laboratoriach uczylimy się głównie datalog'a."
+        }
+    ]
+}

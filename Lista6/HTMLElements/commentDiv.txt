@@ -1,0 +1,20 @@
+
+            <div class="col-4-6">
+                <div class="light-grey-background">
+                    <section>
+                        <header h3>Dodaj opinię!</header>
+                        <form method="post">  
+                            Nick * %nick_req%<br><input type="text" name="nick" value="%nick%"><br>
+                            Opinia * %com_req%<br><textarea name="comment" rows="5" cols="40" style="width: 100%; height: 200px">%com%</textarea>
+                            <div class="row comment">
+                            <header h3>Captcha</header>
+                                <div class="message">
+                                %captcha%
+                                </div>
+                            <br>Odpowiedź * %ans_req%<br><input type="text" name="ans"><br>
+                            <input type="submit" name="submit" value="Submit">
+                            </div>
+                        </form>
+                    </section>
+                </div>
+            </div>

@@ -1,0 +1,11 @@
+{
+    "siteTitle": "Matematyka Dyskretna",
+    "siteDesc": "Strona opisująca mój pierwszy semestr - Matematyka Dyskretna",
+    "divSize": 4,
+    "containers": [
+        {
+            "title": "Czy grupa programistów...",
+            "description": "Czyli wielomiany szachowe. To jedna z rzeczy których się nauczyłem na tym przedmiocie, i którą różnił się on od Matematyki Dyskretnej na PWr. Oprócz tego permutacje, liczby Bella, Eulera, Catalana, i wszystkie inne indukcyjne rzeczy które podobno mają odwierciedlenie w naturze. Ile w tym prawdy? Sam jeszcze nie wiem..."
+        }
+    ]
+}

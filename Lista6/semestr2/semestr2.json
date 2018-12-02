@@ -1,0 +1,11 @@
+{
+    "siteTitle": "Semestr 1",
+    "siteDesc": "Strona opisująca mój pierwszy semestr",
+    "divSize": 4,
+    "containers": [
+        {
+            "title": "Kompletnie inna historia",
+            "description": "Na drugi semestr przeniosłem się na Politechnikę Wrocławską. Wielu ludzi już było ze sobą zapoznanych, jednak dla mnie to był kolejny nowy początek. Chociaż dla mnie liceum było o wiele większą odskocznią od tego co miałem na codzień. Niemniej na pierwszym semestrze poznałem kilku świetnych ludzi, uczestniczyłem w \"turniejach\", brałem udział w wolontariatach i ogólnie dosyć dobrze się bawiłem, próbując w międzyczasie zrozumieć podstawy informatyki oraz wyższej matematyki."
+        }
+    ]
+}

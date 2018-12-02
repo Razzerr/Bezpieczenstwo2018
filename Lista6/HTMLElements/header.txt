@@ -1,0 +1,9 @@
+
+        <div class="row">
+           <div class="col-6-6">
+                <header id="top-header" class="white-background">
+                    <img id="logo" src="/img/logo.png" alt="logo">
+                    <h1>Golden Valley</h1>
+                </header>
+            </div>
+        </div>

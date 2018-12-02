@@ -1,0 +1,11 @@
+{
+    "siteTitle": "Semestr 1",
+    "siteDesc": "Strona opisująca mój pierwszy semestr",
+    "divSize": 4,
+    "containers": [
+        {
+            "title": "Najlepszy semestr?",
+            "description": "Pierwszy semestr spędziłem na Politechnice Poznańskiej. Dla wielu ludzi ten nowy początek jest dosyć ważny - wejście w nowy rozdział w życiu, poznawanie nowych ludzi, nowy sposób myślenia... Chociaż dla mnie liceum było o wiele większą odskocznią od tego co miałem na codzień. Niemniej na pierwszym semestrze poznałem kilku świetnych ludzi, uczestniczyłem w \"turniejach\", brałem udział w wolontariatach i ogólnie dosyć dobrze się bawiłem, próbując w międzyczasie zrozumieć podstawy informatyki oraz wyższej matematyki."
+        }
+    ]
+}
