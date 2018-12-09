@@ -1,0 +1,17 @@
+
+        <div class="row">
+            <div class="col-6-6">
+                <div class="light-grey-background">
+                <section>
+                <header h3>Czy na pewno chcesz zrobic przelew?</header>
+                <p>Obiorca: %receiver%</p>
+                <p>Ilośc: %amount%</p>
+                <form action="transExecute.php" method="POST">
+                    <input type="hidden" value='%receiver%' id="uname" name="uname" required>
+                    <input type="hidden" value="%amount%" name="amount" required>
+                    <div class="row">
+                    <button class="button" type="submit">Wyślij</button>
+                    </div>
+                </div>
+            </div>
+        </div>
