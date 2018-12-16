@@ -1,0 +1,8 @@
+
+            <div class="col-4-6 light-grey-background">
+                <section>
+                    <header h3>Opinie</header>
+                    <p>Tutaj możesz przeczytać opinie innych użytkowników!</p>
+                    %comments%
+                </section>
+            </div> 

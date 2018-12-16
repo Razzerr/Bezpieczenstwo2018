@@ -1,0 +1,20 @@
+
+        <div class="row">
+            <div class="col-6-6">
+                <div class="light-grey-background">
+                <section>
+                <header h3>Zaakceptuj transakcje</header>
+                <form action="transAccept.php", method="POST">
+                    <div class="row">
+                    <label for="ids"><b>Podaj ID oddzielone przecinkiem:</b></label>
+                    <input type="text" id="transactionsToAccept" placeholder="np. 0, 2, 4" name="ids" required>
+                    </div>
+
+                    <div class="row">
+                    <button class="button" id="acceptButton" type="submit">Zaakceptuj</button>
+                    </div>
+                </form> 
+                </section>
+                </div>
+            </div>
+        </div>

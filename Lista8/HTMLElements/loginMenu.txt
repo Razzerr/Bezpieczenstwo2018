@@ -1,0 +1,11 @@
+
+        <div class="row">
+            <div class="col-6-6">
+                <div class="main_menu" id="mm">
+                    <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+                    <a href="/transactions/myAccount.php">Moje Konto</a>
+                    <a href="/register-login-module/changePassword.php">Zmien hasło</a>
+                    <a href="/register-login-module/logOut.php">Wyloguj</a>
+                </div>
+            </div>
+        </div>

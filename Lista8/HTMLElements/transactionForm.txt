@@ -1,0 +1,42 @@
+
+        <div class="row">
+            <div class="col-6-6">
+                <div class="light-grey-background">
+                <section>
+                <header h3>Dane konta</header>
+                <p>Dostępne środki: %balance%</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6-6">
+                <div class="light-grey-background">
+                <section>
+                <header h3>Przelew</header>
+                <form action="transConf.php", method="POST">
+                    <div class="row">
+                    <label for="uname"><b>Podaj odbiorce: </b></label>
+                    <input type="text" placeholder="Odbiorca" name="uname" required>
+                    </div>
+
+                    <div class="row">
+                    <label for="amount"><b>Podaj ilosc:</b></label>
+                    <input type="text" placeholder="Ilosc" name="amount" required>
+                    </div>
+
+                    <div class="row">
+                    <button class="button" type="submit">Wyślij</button>
+                    </div>
+                </form> 
+                </section>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6-6">
+                <div class="light-grey-background">
+                <section>
+                <header h3>Przelewy</header>
+                <p>%transactions%</p>
+            </div>
+        </div>

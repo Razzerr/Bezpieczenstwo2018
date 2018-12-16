@@ -1,0 +1,36 @@
+
+        <div class="row">
+            <div class="col-6-6">
+                <div class="light-grey-background">
+                <section>
+                <header h3>Rejestracja</header>
+                <form action="registerRequest.php", method="POST">
+                    <div class="row">
+                    <label for="email"><b>Email:</b></label>
+                    <input type="text" placeholder="Email" name="email" required>
+                    </div>
+
+                    <div class="row">
+                    <label for="uname"><b>Login:</b></label>
+                    <input type="text" placeholder="Login" name="uname" required>
+                    </div>
+
+                    <div class="row">
+                    <label for="psw"><b>Hasło:</b></label>
+                    <input type="password" placeholder="Hasło" name="psw" required>
+                    </div>
+
+                    <div class="row">
+                    <label for="psw2"><b>Powtórz:</b></label>
+                    <input type="password" placeholder="Powtórz hasło" name="psw2" required>
+                    </div>
+
+                    <div class="row">
+                    <span class="psw">Zapomniano <a href="forgot-password.php">hasła</a>?    </span>
+                    <button class="button" type="submit">Rejestruj</button>
+                    </div>
+                </form> 
+                </dection>
+                </div>
+            </div>
+        </div>
